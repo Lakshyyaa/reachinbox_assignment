@@ -1,0 +1,5 @@
+.history
+client/env
+backend/env
+backend/node_modules
+client/node_modules
